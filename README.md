@@ -109,6 +109,27 @@ Template:
     <img src="https://drive.google.com/uc?id=" title="love cookies" alt="love cookies" width=100px/>
     <img src="https://drive.google.com/uc?id=" title="cheese food grop" alt="cheese food grop" width=100px/>
     <img src="https://drive.google.com/uc?id=" title="web buberry" alt="web buberry" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="fruitlover" alt="fruitlover" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
     <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
     <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
     <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
