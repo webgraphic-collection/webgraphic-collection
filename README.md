@@ -10,7 +10,6 @@ Template:
 -->
 
 
-
 <details>
   <summary>STAMPS</summary>
 <!-- FOOD -->
@@ -31,7 +30,7 @@ Template:
     <img src="https://drive.google.com/uc?id=1dk9jJTf5lFZax2KLMyDGslhDnqyhjHUl" title="burger dark" alt="burger dark" width=100px/>
     <img src="https://drive.google.com/uc?id=1M4G-azgYw_3gthXUnTI-DyJXcYIS9S5c" title="bourger" alt="burger" width=100px/>
     <img src="https://drive.google.com/uc?id=1iBqujjUCz4LC-yxHbd_DrbiylCxVA_FW" title="burgers" alt="burgers" width=100px/>
-    <img src="https://drive.google.com/uc?id=1KhKA768Og0N4sbQRVoAgzp_9EUKu6iz" title="california roll" alt="california roll" width=100px/>
+    <img src="https://drive.google.com/uc?id=1KhKA768Og0N4sbQRVoAgzp_9EUKu6iz-" title="california roll" alt="california roll" width=100px/>
     <img src="https://drive.google.com/uc?id=1WJNW824ItixQwcsFds_HCWuDlfGUiBTG" title="caprisun" alt="caprisun" width=100px/>
     <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
     <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
