@@ -59,6 +59,33 @@ Template:
     <img src="https://drive.google.com/uc?id=1WJNW824ItixQwcsFds_HCWuDlfGUiBTG" title="caprisun" alt="caprisun" width=100px/>
     <img src="https://drive.google.com/uc?id=1t_fpNheEBvYVNTWTEqjk-7ZzK2NEognO" title="bisque" alt="bisque" width=100px/>
     <img src="https://drive.google.com/uc?id=1iwtqGLgn2x3h4MWwxswoiYcv4r80jR6Q" title="brie cheese wheel" alt="brie" width=100px/>
+    <img src="https://drive.google.com/uc?id=1qxG2Mg0HwMjiyZlKpnHeO5-WkpOBQh58" title="i love mangos" alt="i love mangos" width=100px/>
+    <img src="https://drive.google.com/uc?id=1tLcFoMKYDTDj7nD5KCLXIQZdoyqa-wBO" title="i <3 mango" alt="i <3 mango" width=100px/>
+    <img src="https://drive.google.com/uc?id=1ukYkGV7k869LEYf3-1wz-W8Z2LE0GpRd" title="mangos" alt="mangos" width=100px/>
+    <img src="https://drive.google.com/uc?id=1WqpB7QMkNvn1nK1ZOSUvqTlbSPQQiBaG" title="mango lover" alt="mango lover" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="mango <3" alt="mango <3" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="eat more mango" alt="eat more mango" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="fries" alt="fries" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="lucky charms" alt="lucky charms" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="patrick burg" alt="patrick burg" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="french pasta" alt="french pasta" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="mcdonald" alt="mcdonald" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="heart macarons" alt="heart macarons" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="cheeseborg" alt="cheeseborg" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="pizzaa" alt="pizzaa" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="sticks of mozzy" alt="sticks of mozzy" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="strawb smooth e" alt="strawb smooth e" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="burgers tastey but deadly" alt="burgers tastey but deadly" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="gummy worm" alt="gummy worm" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="milkyway" alt="milkyway" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="geesebirder" alt="geesebirder" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="i want a cookie" alt="i want a cookie" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="i loev pizza" alt="i loev pizza" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="i love cookies" alt="i love cookies" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="gfapes" alt="gfapes" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
+    <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
     <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
     <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
     <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
