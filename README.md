@@ -12,10 +12,10 @@ Template:
 <details>
   <summary>STAMPS</summary>
 
-  <!-- FOOD -->
+    <!-- FOOD -->
   <details>
     <summary>FOOD</summary>
-    <img src="https://drive.google.com/uc?id=1KbD3N5dXD2jEEFcscMOL2Fu-jgoBq3j0" title="apple basket" alt="apple basket" width=100px/>
+    <img src="https://drive.google.com/uc?id=1KbD3N5dXD2jEEFcscMOL2Fu-jgoBq3j0" title="apple basket" alt="apple basket" width="100px"/>
     <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
     <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
     <img src="https://drive.google.com/uc?id=" title="" alt="" width=100px/>
