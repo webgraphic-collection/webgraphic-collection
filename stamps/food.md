@@ -51,8 +51,10 @@ Template:
 <img src="https://drive.google.com/uc?id=1bOpAerqvQgmKuukUbTXHgRlzig9DKDgp" title="3 fries" alt="3 fries" width=100px/>
 <img src="https://drive.google.com/uc?id=1i6kNz35spe25nZGFdrU6EKpf3zxelKLg" title="mcdonald" alt="mcdonald" width=100px/>
 <img src="https://drive.google.com/uc?id=1eiKosMzdTwqdMvxkVh-BzKIXT3KPVAFp" title="geesebirder" alt="geesebirder" width=100px/>
-
-
+<img src="https://drive.google.com/uc?id=1RgQQUqvN3OvxREf9R20xLEeukGqzOe_Y" title="fries" alt="fries" width=100px/>
+<img src="https://drive.google.com/uc?id=1JS8ZHwblvJTdGh6J6Ps_UBSZMVpg5sVM" title="cheeseborg" alt="cheeseborg" width=100px/>
+<img src="https://drive.google.com/uc?id=1xB68YxtwSrpqOl_ogsXLsKCS2lMhyrzY" title="burgers tastey but deadly" alt="burgers tastey but deadly" width=100px/>
+<img src="https://drive.google.com/uc?id=16b_j0xOCtvspIQc4U94x3FuNR833Xf7P" title="pizza pull" alt="pizza pull" width=100px/>
 <hr>
                     <!-- ICE CREAM -->
 <img src="https://drive.google.com/uc?id=1hgk5MIF5Zuyuf9SrNXiEQjkyRM5MlZ7J" title="blue cream" alt="blue cream" width=100px/> 
@@ -72,16 +74,13 @@ Template:
 <img src="https://drive.google.com/uc?id=1KhKA768Og0N4sbQRVoAgzp_9EUKu6iz-" title="california roll" alt="california roll" width=100px/>
 <img src="https://drive.google.com/uc?id=1WJNW824ItixQwcsFds_HCWuDlfGUiBTG" title="caprisun" alt="caprisun" width=100px/>
 <img src="https://drive.google.com/uc?id=1t_fpNheEBvYVNTWTEqjk-7ZzK2NEognO" title="bisque" alt="bisque" width=100px/>
-<img src="https://drive.google.com/uc?id=1RgQQUqvN3OvxREf9R20xLEeukGqzOe_Y" title="fries" alt="fries" width=100px/>
 <img src="https://drive.google.com/uc?id=1t4J_Kh-DrzkccvbdfIz1ZngYNiUqUMZI" title="lucky charms" alt="lucky charms" width=100px/>
 <img src="https://drive.google.com/uc?id=1adqXJbBl414qrDlxh_C0bOPxboJyxDfL" title="patrick burg" alt="patrick burg" width=100px/>
 <img src="https://drive.google.com/uc?id=1f9Gice8UeXVjmWrW85JZ4vPUwMDEAKeM" title="french pasta" alt="french pasta" width=100px/>
 <img src="https://drive.google.com/uc?id=1QyPhUIFN8BZ18cRtxCX3QfNjiIFkt5A5" title="heart macarons" alt="heart macarons" width=100px/>
-<img src="https://drive.google.com/uc?id=1JS8ZHwblvJTdGh6J6Ps_UBSZMVpg5sVM" title="cheeseborg" alt="cheeseborg" width=100px/>
 <img src="https://drive.google.com/uc?id=1vLAkeilzGU9N_2owymL3jCdKVaiNxxDv" title="pizzaa" alt="pizzaa" width=100px/>
 <img src="https://drive.google.com/uc?id=1HogV8S_piWJUGiUEx7oK6EKomVVRwQnI" title="sticks of mozzy" alt="sticks of mozzy" width=100px/>
 <img src="https://drive.google.com/uc?id=1j5F_YDf7Hxkh2R20GIN8etCcRVzF-P6n" title="strawb smooth e" alt="strawb smooth e" width=100px/>
-<img src="https://drive.google.com/uc?id=1xB68YxtwSrpqOl_ogsXLsKCS2lMhyrzY" title="burgers tastey but deadly" alt="burgers tastey but deadly" width=100px/>
 <img src="https://drive.google.com/uc?id=17-kgOwbn8UIcOIyvHRM48v3C60l3ykIq" title="gummy worm" alt="gummy worm" width=100px/>
 <img src="https://drive.google.com/uc?id=1U65Fj5W-tMG5_19WDVSUBVkmWiR80OIr" title="milkyway" alt="milkyway" width=100px/>
 <img src="https://drive.google.com/uc?id=1ymM66xtslvJh_4wj_R9w9PiFaqv6M5Vf" title="i want a cookie" alt="i want a cookie" width=100px/>
@@ -95,7 +94,6 @@ Template:
 <img src="https://drive.google.com/uc?id=1BaHMqEmnf3XxNZHuv10q6lCy_NHPNgqA" title="strawberry cake" alt="strawberry cake" width=100px/>
 <img src="https://drive.google.com/uc?id=1ZfMdO9EXGHrwvNw3TdPGmNV2WqaJigpr" title="big birher" alt="big birher" width=100px/>
 <img src="https://drive.google.com/uc?id=1keRbpYCs2ClR9MlIwx-TInyVnvl9FXq4" title="pancake s" alt="pancake s" width=100px/>
-<img src="https://drive.google.com/uc?id=16b_j0xOCtvspIQc4U94x3FuNR833Xf7P" title="pizza pull" alt="pizza pull" width=100px/>
 <img src="https://drive.google.com/uc?id=1_4fqC8F_-fggvNhE66rtLOKIVZKXFtU4" title="egg big" alt="egg big" width=100px/>
 <img src="https://drive.google.com/uc?id=18mNCt2kBhFHsa2rU_tMGvon6bBdX8uKc" title="candy porn" alt="candy porn" width=100px/>
 <img src="https://drive.google.com/uc?id=1NZc3EbhWivBuTGHGs4W7irOWkNd1oHAJ" title="tomato" alt="tomato" width=100px/>
