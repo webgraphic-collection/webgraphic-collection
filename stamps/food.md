@@ -24,6 +24,14 @@ Template:
 <img src="https://drive.google.com/uc?id=1IWRr9TSnTuBw9YZJSu35MKLnvVuEG3yJ" title="green apple slices" alt="green apple slices" width=100px/>
 <img src="https://drive.google.com/uc?id=1AtiNgGSKwqrx8S6qUOu-Ks2kA9nlURFo" title="two apple slices" alt="two apple slices" width=100px/> 
 <hr>
+                   <!-- MANGOS -->
+<img src="https://drive.google.com/uc?id=1qxG2Mg0HwMjiyZlKpnHeO5-WkpOBQh58" title="i love mangos" alt="i love mangos" width=100px/>
+<img src="https://drive.google.com/uc?id=1tLcFoMKYDTDj7nD5KCLXIQZdoyqa-wBO" title="i <3 mango" alt="i <3 mango" width=100px/>
+<img src="https://drive.google.com/uc?id=1ukYkGV7k869LEYf3-1wz-W8Z2LE0GpRd" title="mangos" alt="mangos" width=100px/>
+<img src="https://drive.google.com/uc?id=1WqpB7QMkNvn1nK1ZOSUvqTlbSPQQiBaG" title="mango lover" alt="mango lover" width=100px/>
+<img src="https://drive.google.com/uc?id=1I2gem8pubUJI9kdhiGchSzGPIFiIf31W" title="mango <3" alt="mango <3" width=100px/>
+<img src="https://drive.google.com/uc?id=1x72mmbV8LMnOzkd1T-BtpTCculq_BFff" title="eat more mango" alt="eat more mango" width=100px/>
+<hr>
                    <!-- BLUEBERRYS -->
 <img src="https://drive.google.com/uc?id=1Zm2HJY8H_7t6JqesolGC6e04sEjF26xG" title="blueb spoon" alt="blueb spoon" width=100px/> 
 <img src="https://drive.google.com/uc?id=1nFKIHUmfisJCiHNPC-0OvPavPaYuETIF" title="blueberry cream" alt="bb cream" width=100px/>
@@ -41,31 +49,33 @@ Template:
 <img src="https://drive.google.com/uc?id=1GHeKRJ3M_eBKZu9iWTMblOlyG7ePudKd" title="burger and fry" alt="burg n fry" width=100px/>
 <img src="https://drive.google.com/uc?id=17lBueJ7x9GBhwovNJofdUXFQ61J-5se_" title="burg texture" alt="burg texture" width=100px/>
 <img src="https://drive.google.com/uc?id=1bOpAerqvQgmKuukUbTXHgRlzig9DKDgp" title="3 fries" alt="3 fries" width=100px/>
+<img src="https://drive.google.com/uc?id=1i6kNz35spe25nZGFdrU6EKpf3zxelKLg" title="mcdonald" alt="mcdonald" width=100px/>
+<img src="https://drive.google.com/uc?id=1eiKosMzdTwqdMvxkVh-BzKIXT3KPVAFp" title="geesebirder" alt="geesebirder" width=100px/>
+
+
 <hr>
                     <!-- ICE CREAM -->
 <img src="https://drive.google.com/uc?id=1hgk5MIF5Zuyuf9SrNXiEQjkyRM5MlZ7J" title="blue cream" alt="blue cream" width=100px/> 
 <img src="https://drive.google.com/uc?id=1olpJmmCAi9dUq4SBxK-mAEMRYzYSE2iQ" title="blueb n purble ice cream" alt="blueb n purble cream" width=100px/>
 <img src="https://drive.google.com/uc?id=1UfvR4_EhVfHpSVuuJVGWUjqeqWkAWrnT" title="ice cream" alt="ice cream" width=100px/> 
 <hr>
+                    <!-- CHEESE -->
+<img src="https://drive.google.com/uc?id=1jpmNH5XcCYou8bxNEm0qUA3vJGISwNqE" title="block o cheese" alt="block of cheese" width=100px/>
+<img src="https://drive.google.com/uc?id=1iwtqGLgn2x3h4MWwxswoiYcv4r80jR6Q" title="brie cheese wheel" alt="brie" width=100px/>
+
+
+
+
 <img src="https://drive.google.com/uc?id=1WShJf3uSPakBzqIMYY8KHkopKKlf5oPf" title="alfredo" alt="alfredo" width=100px/>
 <img src="https://drive.google.com/uc?id=1y1u200tOKyqcyxmjuGCt5A257oGtI6DN" title="waffle love" alt="waffle love" width=100px/>
 <img src="https://drive.google.com/uc?id=1sx-2oqRJSpdIikqDtPyaCyG-Aa216U5D" title="wabermellon" alt="wabermellon" width=100px/>
-<img src="https://drive.google.com/uc?id=1jpmNH5XcCYou8bxNEm0qUA3vJGISwNqE" title="block o cheese" alt="block of cheese" width=100px/>
 <img src="https://drive.google.com/uc?id=1KhKA768Og0N4sbQRVoAgzp_9EUKu6iz-" title="california roll" alt="california roll" width=100px/>
 <img src="https://drive.google.com/uc?id=1WJNW824ItixQwcsFds_HCWuDlfGUiBTG" title="caprisun" alt="caprisun" width=100px/>
 <img src="https://drive.google.com/uc?id=1t_fpNheEBvYVNTWTEqjk-7ZzK2NEognO" title="bisque" alt="bisque" width=100px/>
-<img src="https://drive.google.com/uc?id=1iwtqGLgn2x3h4MWwxswoiYcv4r80jR6Q" title="brie cheese wheel" alt="brie" width=100px/>
-<img src="https://drive.google.com/uc?id=1qxG2Mg0HwMjiyZlKpnHeO5-WkpOBQh58" title="i love mangos" alt="i love mangos" width=100px/>
-<img src="https://drive.google.com/uc?id=1tLcFoMKYDTDj7nD5KCLXIQZdoyqa-wBO" title="i <3 mango" alt="i <3 mango" width=100px/>
-<img src="https://drive.google.com/uc?id=1ukYkGV7k869LEYf3-1wz-W8Z2LE0GpRd" title="mangos" alt="mangos" width=100px/>
-<img src="https://drive.google.com/uc?id=1WqpB7QMkNvn1nK1ZOSUvqTlbSPQQiBaG" title="mango lover" alt="mango lover" width=100px/>
-<img src="https://drive.google.com/uc?id=1I2gem8pubUJI9kdhiGchSzGPIFiIf31W" title="mango <3" alt="mango <3" width=100px/>
-<img src="https://drive.google.com/uc?id=1x72mmbV8LMnOzkd1T-BtpTCculq_BFff" title="eat more mango" alt="eat more mango" width=100px/>
 <img src="https://drive.google.com/uc?id=1RgQQUqvN3OvxREf9R20xLEeukGqzOe_Y" title="fries" alt="fries" width=100px/>
 <img src="https://drive.google.com/uc?id=1t4J_Kh-DrzkccvbdfIz1ZngYNiUqUMZI" title="lucky charms" alt="lucky charms" width=100px/>
 <img src="https://drive.google.com/uc?id=1adqXJbBl414qrDlxh_C0bOPxboJyxDfL" title="patrick burg" alt="patrick burg" width=100px/>
 <img src="https://drive.google.com/uc?id=1f9Gice8UeXVjmWrW85JZ4vPUwMDEAKeM" title="french pasta" alt="french pasta" width=100px/>
-<img src="https://drive.google.com/uc?id=1i6kNz35spe25nZGFdrU6EKpf3zxelKLg" title="mcdonald" alt="mcdonald" width=100px/>
 <img src="https://drive.google.com/uc?id=1QyPhUIFN8BZ18cRtxCX3QfNjiIFkt5A5" title="heart macarons" alt="heart macarons" width=100px/>
 <img src="https://drive.google.com/uc?id=1JS8ZHwblvJTdGh6J6Ps_UBSZMVpg5sVM" title="cheeseborg" alt="cheeseborg" width=100px/>
 <img src="https://drive.google.com/uc?id=1vLAkeilzGU9N_2owymL3jCdKVaiNxxDv" title="pizzaa" alt="pizzaa" width=100px/>
@@ -74,7 +84,6 @@ Template:
 <img src="https://drive.google.com/uc?id=1xB68YxtwSrpqOl_ogsXLsKCS2lMhyrzY" title="burgers tastey but deadly" alt="burgers tastey but deadly" width=100px/>
 <img src="https://drive.google.com/uc?id=17-kgOwbn8UIcOIyvHRM48v3C60l3ykIq" title="gummy worm" alt="gummy worm" width=100px/>
 <img src="https://drive.google.com/uc?id=1U65Fj5W-tMG5_19WDVSUBVkmWiR80OIr" title="milkyway" alt="milkyway" width=100px/>
-<img src="https://drive.google.com/uc?id=1eiKosMzdTwqdMvxkVh-BzKIXT3KPVAFp" title="geesebirder" alt="geesebirder" width=100px/>
 <img src="https://drive.google.com/uc?id=1ymM66xtslvJh_4wj_R9w9PiFaqv6M5Vf" title="i want a cookie" alt="i want a cookie" width=100px/>
 <img src="https://drive.google.com/uc?id=1UUI3gDJmmV-mNFnr9Etyh2fVItvH-4bD" title="i loev pizza" alt="i loev pizza" width=100px/>
 <img src="https://drive.google.com/uc?id=1j0a7eSQJzAqcceLS4-xKCtzPTdFS92en" title="i love cookies" alt="i love cookies" width=100px/>
