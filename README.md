@@ -33,4 +33,6 @@ Template:
     <a href="https://github.com/webgraphic-collection/webgraphic-collection/tree/main/stamps">STAMPS</a>
     <br>
     <a href="https://github.com/webgraphic-collection/webgraphic-collection/tree/main/userboxes">USERBOXES</a>
+    <br>
+    <a href="https://github.com/webgraphic-collection/webgraphic-collection/tree/main/user masterlist">USER MASTERLIST</a>
 </table>
